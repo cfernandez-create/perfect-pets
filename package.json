@@ -1,6 +1,6 @@
 {
   "homepage": "http://cfernandez-create.github.io/perfect-pets",
-  "name": "pets2",
+  "name": "perfect-pets",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
