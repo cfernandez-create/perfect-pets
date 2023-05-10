@@ -1,4 +1,5 @@
-import React, {useState} from "react"
+import React, {useState} from "react";
+import myPhoto from './2077753281.jpg';
 
 
 export default function Hero(){
@@ -10,7 +11,7 @@ export default function Hero(){
 
 
     {/* Additional information about the dog */}
-    <img src="public/img/2077753281.jpg" alt="" width="200px"/>
+    <img src={myPhoto} alt="" width="200px"/>
     <h2>Noya</h2>
       <p>Breed: Shihtzu Terrier Mix</p>
       <p>Age: 3 years</p>
@@ -24,7 +25,7 @@ export default function Hero(){
         <div class="cardContainer" id="cardC">
         <div class="card">
                 <a href="#" onClick={() => setShowPopup(true)}>
-                <img src="public/img/2077753281.jpg" alt=""/>
+                <img src={myPhoto} alt=""/>
                 <h3>Noya</h3>
                 <p><strong>Age:</strong> 3  years old</p>
                 <p><strong>Breed:</strong> Shihtzu Terrier Mix</p>
@@ -39,7 +40,7 @@ export default function Hero(){
             <div class="cardContainer" id="cardC">
             <div class="card">
                 <a href="#" onClick={() => setShowPopup(true)}>
-                <img src="public/img/2077753281.jpg" alt=""/>
+                <img src={myPhoto} alt=""/>
                 <h3>Noya</h3>
                 <p><strong>Age:</strong> 3  years old</p>
                 <p><strong>Breed:</strong> Shihtzu Terrier Mix</p>
@@ -54,7 +55,7 @@ export default function Hero(){
             <div class="cardContainer" id="cardC">
             <div class="card">
                 <a href="#" onClick={() => setShowPopup(true)}>
-                <img src="public/img/2077753281.jpg" alt=""/>
+                <img src={myPhoto} alt=""/>
                 <h3>Noya</h3>
                 <p><strong>Age:</strong> 3  years old</p>
                 <p><strong>Breed:</strong> Shihtzu Terrier Mix</p>
@@ -69,7 +70,7 @@ export default function Hero(){
             <div class="cardContainer" id="cardC">
             <div class="card">
                 <a href="#" onClick={() => setShowPopup(true)}>
-                <img src="public/img/2077753281.jpg" alt=""/>
+                <img src={myPhoto} alt=""/>
                 <h3>Noya</h3>
                 <p><strong>Age:</strong> 3  years old</p>
                 <p><strong>Breed:</strong> Shihtzu Terrier Mix</p>
