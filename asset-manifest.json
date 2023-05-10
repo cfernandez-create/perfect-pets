@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/perfect-pets/static/css/main.85c6a03a.css",
-    "main.js": "/perfect-pets/static/js/main.ec2afbca.js",
+    "main.css": "/perfect-pets/static/css/main.f9b9f3b8.css",
+    "main.js": "/perfect-pets/static/js/main.e12c1934.js",
     "static/js/787.5cdeb346.chunk.js": "/perfect-pets/static/js/787.5cdeb346.chunk.js",
     "static/media/2077753281.jpg": "/perfect-pets/static/media/2077753281.08aa687317d9c1cf9dc6.jpg",
     "static/media/everydaylife.png": "/perfect-pets/static/media/everydaylife.c289e002ba5c2951dc32.png",
     "index.html": "/perfect-pets/index.html",
-    "main.85c6a03a.css.map": "/perfect-pets/static/css/main.85c6a03a.css.map",
-    "main.ec2afbca.js.map": "/perfect-pets/static/js/main.ec2afbca.js.map",
+    "main.f9b9f3b8.css.map": "/perfect-pets/static/css/main.f9b9f3b8.css.map",
+    "main.e12c1934.js.map": "/perfect-pets/static/js/main.e12c1934.js.map",
     "787.5cdeb346.chunk.js.map": "/perfect-pets/static/js/787.5cdeb346.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85c6a03a.css",
-    "static/js/main.ec2afbca.js"
+    "static/css/main.f9b9f3b8.css",
+    "static/js/main.e12c1934.js"
   ]
 }
