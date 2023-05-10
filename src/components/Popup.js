@@ -4,7 +4,7 @@ export default function Popup(){
 return (
     <div className="popup-container">
       <h2>Noya</h2>
-      <img src="/img/2077753281.jpg" alt="" width="500px"/>
+      <img src="public/img/2077753281.jpg" alt="" width="500px"/>
       <p><strong>Age:</strong> 3  years old</p>
       <p><strong>Breed:</strong> Shihtzu Terrier Mix</p>
       <button class="heart-btn">
